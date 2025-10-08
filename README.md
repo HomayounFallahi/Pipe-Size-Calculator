@@ -12,7 +12,9 @@ You don’t need to install anything—just download the HTML file and open it i
 
 🔗 Download
 
-  ![Pipe Size Calculator Interface](/images/Screenshot1.png)
+<div align="center">
+  <img src="/images/Screenshot1.png" alt="app interface" height="45%"/>
+</div>
 
 ✨ Features
 ----------
