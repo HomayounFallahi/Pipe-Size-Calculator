@@ -13,7 +13,7 @@ You don’t need to install anything—just download the HTML file and open it i
 🔗 Download
 
 <div align="center">
-  <img src="/images/Screenshot1.png" alt="app interface" width="25%"/>
+  <img src="/images/Screenshot1.png" alt="app interface" width="35%"/>
 </div>
 
 ✨ Features
