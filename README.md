@@ -12,7 +12,7 @@ You don’t need to install anything—just download the HTML file and open it i
 
 🔗 Download
 
-  ![Pipe Size Calculator Interface](/Images/screenshot1.png)
+  ![Pipe Size Calculator Interface](/images/Screenshot 1.png)
 
 ✨ Features
 ----------
