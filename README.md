@@ -9,8 +9,7 @@ This tool is useful when **sizing pipelines** and performing **hydraulic calcula
 ----------------------------
 
 You don’t need to install anything—just download the HTML file and open it in your browser!
-
-🔗 Download
+🔗 **[Download](https://github.com/HomayounFallahi/Pipe-Size-Calculator/releases/download/releases/Pipe.size.calculator.html)**
 
 <div align="center">
   <img src="/images/Screenshot1.png" alt="app interface" width="35%"/>
